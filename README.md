@@ -26,25 +26,20 @@
 
 ## 👨‍🔬 About Me
 
-```python
-class Tamim:
-    def __init__(self):
-        self.name       = "M. H. Tamim"
-        self.studying   = "Environmental Science & Geography @ Islamic University"
-        self.focus      = ["GIS", "Remote Sensing", "Sustainability", "Earth Sciences"]
-        self.languages  = ["Python", "JavaScript"]
-        self.location   = "Bangladesh"
-        self.mission    = "Use spatial data and automation to solve real environmental problems"
+I'm **M. H. Tamim**, an Environmental Science & Geography student at **Islamic University**, Bangladesh. I work at the intersection of **earth science and software**. Bangladesh's rivers are constantly shifting, and rural emergency response depends on road data that barely exists online, so I build **automated, reproducible tools** that turn raw satellite imagery and field-digitized data into something decision-makers can use.
 
-    def currently(self):
-        return [
-            "Monitoring river geomorphology with Sentinel-2 imagery",
-            "Optimising emergency response routing in rural areas",
-            "Learning: cloud-native geospatial workflows",
-        ]
-```
+| | |
+|---|---|
+| 🎓 **Studying** | Environmental Science & Geography @ Islamic University |
+| 🎯 **Focus** | GIS · Remote Sensing · Sustainability · Earth Sciences |
+| 💻 **Languages** | Python · JavaScript |
+| 📍 **Location** | Bangladesh |
+| 🚀 **Mission** | Use spatial data and automation to solve real environmental problems |
 
-I work at the intersection of **earth science and software**. Bangladesh's rivers are constantly shifting, and rural emergency response depends on road data that barely exists online, so I build **automated, reproducible tools** that turn raw satellite imagery and field-digitized data into something decision-makers can use.
+### 🌱 Currently
+- 🛰️ Monitoring river geomorphology with Sentinel-2 imagery
+- 🚑 Optimising emergency response routing in rural areas
+- 📚 Learning cloud-native geospatial workflows
 
 ---
 
